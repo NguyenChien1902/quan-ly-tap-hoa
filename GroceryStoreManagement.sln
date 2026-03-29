@@ -1,0 +1,14 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+
+Project("{FAE04EC0-301F-11D3-BF4F-00105A27989B}") = "Data", "Data\Data.csproj", "{5F4B1E3C-C2BF-4BA5-AE42-C05C53B4B36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4F-00105A27989B}") = "Business", "Business\Business.csproj", "{0A9D027F-BCC8-4B5D-9142-D75871247DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4F-00105A27989B}") = "UI", "UI\UI.csproj", "{A7BAF0EE-65FA-43FC-B05B-39DA84211B95}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+    Debug|Any CPU = Debug|Any CPU
+    Release|Any CPU = Release|Any CPU
+  EndGlobalSection
+EndGlobal
